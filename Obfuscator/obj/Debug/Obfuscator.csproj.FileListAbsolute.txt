@@ -1,0 +1,5 @@
+M:\Projects\Visual Studio 2008\Projects\dotNetObfuscator\Obfuscator\bin\Debug\Obfuscator.dll
+M:\Projects\Visual Studio 2008\Projects\dotNetObfuscator\Obfuscator\bin\Debug\Obfuscator.pdb
+M:\Projects\Visual Studio 2008\Projects\dotNetObfuscator\Obfuscator\obj\Debug\ResolveAssemblyReference.cache
+M:\Projects\Visual Studio 2008\Projects\dotNetObfuscator\Obfuscator\obj\Debug\Obfuscator.dll
+M:\Projects\Visual Studio 2008\Projects\dotNetObfuscator\Obfuscator\obj\Debug\Obfuscator.pdb

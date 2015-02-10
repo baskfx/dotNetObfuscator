@@ -1,0 +1,19 @@
+C:\Documents and Settings\Mari\Мои документы\Visual Studio 2008\Projects\dotNetObfuscator\Obfuscator\bin\Debug\Obfuscator.dll
+C:\Documents and Settings\Mari\Мои документы\Visual Studio 2008\Projects\dotNetObfuscator\Obfuscator\bin\Debug\Obfuscator.pdb
+C:\Documents and Settings\Mari\Мои документы\Visual Studio 2008\Projects\dotNetObfuscator\Obfuscator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mari\Мои документы\Visual Studio 2008\Projects\dotNetObfuscator\Obfuscator\obj\Debug\Obfuscator.dll
+C:\Documents and Settings\Mari\Мои документы\Visual Studio 2008\Projects\dotNetObfuscator\Obfuscator\obj\Debug\Obfuscator.pdb
+M:\SVN\dotNetObfuscator\Obfuscator\bin\Debug\Obfuscator.dll
+M:\SVN\dotNetObfuscator\Obfuscator\bin\Debug\Obfuscator.pdb
+M:\SVN\dotNetObfuscator\Obfuscator\obj\Debug\ResolveAssemblyReference.cache
+M:\SVN\dotNetObfuscator\Obfuscator\obj\Debug\Obfuscator.dll
+M:\SVN\dotNetObfuscator\Obfuscator\obj\Debug\Obfuscator.pdb
+F:\Projects\dotNetObfuscator\Obfuscator\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\dotNetObfuscator\Obfuscator\obj\Debug\Obfuscator.dll
+F:\Projects\dotNetObfuscator\Obfuscator\bin\Debug\Obfuscator.dll
+F:\Projects\dotNetObfuscator\Obfuscator\bin\Debug\Obfuscator.pdb
+F:\Projects\dotNetObfuscator\Obfuscator\obj\Debug\Obfuscator.pdb
+c:\Projects\dotNetObfuscator\Obfuscator\bin\Debug\Obfuscator.dll
+c:\Projects\dotNetObfuscator\Obfuscator\bin\Debug\Obfuscator.pdb
+c:\Projects\dotNetObfuscator\Obfuscator\obj\Debug\Obfuscator.dll
+c:\Projects\dotNetObfuscator\Obfuscator\obj\Debug\Obfuscator.pdb
